@@ -6,7 +6,11 @@ The purpose of this project is to visualize the data regarding different types o
 
 ## Link to Tableau Public
 
-This visualization is available on Tableau Public under this link: https://public.tableau.com/profile/marcellus.ruben.winastwan#!/vizhome/WhichVehicletoChoosein2020/WhichVehicleShouldIChoose
+This visualization is available on Tableau Public under this link:
+
+- For Dashboard: https://public.tableau.com/profile/marcellus.ruben.winastwan#!/vizhome/WhichVehicletoChoosein2020/WhichVehicleShouldIChoose
+
+- For Story: https://public.tableau.com/profile/marcellus.ruben.winastwan#!/vizhome/WhichVehicletoChoosein2020BasedonTheirCityMPGandCO2Emissions/WhichVehicletoChoosein2020BasedonTheirCityMPGandCO2Emissions
 
 ## File
 
